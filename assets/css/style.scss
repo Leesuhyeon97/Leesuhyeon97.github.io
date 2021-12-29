@@ -86,7 +86,8 @@ a.navbar-item.is-active {
 
 #project1 {
     .image {
-      margin: auto;
+        max-width: 500vmax;
+        margin: auto;
 
         img {
             width:500px;
