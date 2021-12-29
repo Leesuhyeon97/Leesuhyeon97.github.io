@@ -86,12 +86,12 @@ a.navbar-item.is-active {
 
 #project1 {
     .image {
-        max-width: 500vmax;
-        margin: auto;
+        width: 500vmax;
+        height: 300vmax;
 
         img {
             border: 0.25rem dotted black;
-            width: 300px;
+            width: 500px;
             height:300px;
         }
     }
